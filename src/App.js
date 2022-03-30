@@ -1,10 +1,17 @@
+import React, {useState} from 'react';
 import Box from "./Box/Box";
 import "./App.css";
 
 function App() {
+
   return (
     <div className="App">
-      <Box color="purple" />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
     </div>
   );
 }
