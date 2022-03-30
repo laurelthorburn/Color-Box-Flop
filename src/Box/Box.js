@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import './Box.css'
 
 const Box = () => {
-    const [color, setColor] = useState("blue");
+    const [color, setColor] = useState("aliceblue");
     const colorArray = ["red", "blue", "purple", "linen", "teal"];
     const handleColor = (e) => {
       console.log("You clicked a box");

@@ -5,13 +5,35 @@ import "./App.css";
 function App() {
 
   return (
-    <div className="App">
+    <div className="App--Container">
       <Box />
       <Box />
       <Box />
       <Box />
       <Box />
       <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+
     </div>
   );
 }
