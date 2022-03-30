@@ -9,4 +9,5 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin: 25px;
+    justify-content: center;
 }
